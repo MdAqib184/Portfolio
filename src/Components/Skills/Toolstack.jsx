@@ -5,7 +5,7 @@ import {
   SiJupyter,
   SiVercel,
   SiW3Schools,
-  SiNotepadplusplus,
+  SiNetlify,
 } from "react-icons/si";
 
 function Toolstack() {
@@ -22,10 +22,10 @@ function Toolstack() {
           <SiVercel />
         </Col>
         <Col xs={4} md={2} className="tech-icons">
-          <SiW3Schools />
+          <SiNetlify />
         </Col>
         <Col xs={4} md={2} className="tech-icons">
-          <SiNotepadplusplus />
+          <SiW3Schools />
         </Col>
       </Row>
     </div>
